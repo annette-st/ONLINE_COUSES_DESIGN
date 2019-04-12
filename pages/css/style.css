@@ -1,0 +1,20 @@
+#img-main {
+    border-radius: 50%;
+}
+
+#name {
+    margin-top: 40px;
+}
+
+#app {
+
+  overflow:hidden;
+}
+.loginOverlay {
+  background:rgba(33,150,243,0.3);
+}
+.photoCredit{
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+}
